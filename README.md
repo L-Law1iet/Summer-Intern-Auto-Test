@@ -1,4 +1,4 @@
-# Intern-Auto-Test
+# Summer-Intern-Auto-Test
 
 2022 Summer Intern
 
